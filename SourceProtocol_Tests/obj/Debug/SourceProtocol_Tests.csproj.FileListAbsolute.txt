@@ -1,0 +1,10 @@
+c:\users\roman\source\repos\SourceProtocol\SourceProtocol_Tests\bin\Debug\SourceProtocol_Tests.exe.config
+c:\users\roman\source\repos\SourceProtocol\SourceProtocol_Tests\bin\Debug\SourceProtocol_Tests.exe
+c:\users\roman\source\repos\SourceProtocol\SourceProtocol_Tests\bin\Debug\SourceProtocol_Tests.pdb
+c:\users\roman\source\repos\SourceProtocol\SourceProtocol_Tests\bin\Debug\SourceProtocol.dll
+c:\users\roman\source\repos\SourceProtocol\SourceProtocol_Tests\bin\Debug\SourceProtocol.pdb
+c:\users\roman\source\repos\SourceProtocol\SourceProtocol_Tests\obj\Debug\SourceProtocol_Tests.csprojAssemblyReference.cache
+c:\users\roman\source\repos\SourceProtocol\SourceProtocol_Tests\obj\Debug\SourceProtocol_Tests.csproj.CoreCompileInputs.cache
+c:\users\roman\source\repos\SourceProtocol\SourceProtocol_Tests\obj\Debug\SourceProtocol_Tests.csproj.CopyComplete
+c:\users\roman\source\repos\SourceProtocol\SourceProtocol_Tests\obj\Debug\SourceProtocol_Tests.exe
+c:\users\roman\source\repos\SourceProtocol\SourceProtocol_Tests\obj\Debug\SourceProtocol_Tests.pdb

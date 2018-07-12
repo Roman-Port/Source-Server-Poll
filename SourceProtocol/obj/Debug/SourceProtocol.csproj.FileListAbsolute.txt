@@ -1,0 +1,6 @@
+c:\users\roman\source\repos\SourceProtocol\SourceProtocol\bin\Debug\SourceProtocol.dll
+c:\users\roman\source\repos\SourceProtocol\SourceProtocol\bin\Debug\SourceProtocol.pdb
+c:\users\roman\source\repos\SourceProtocol\SourceProtocol\obj\Debug\SourceProtocol.csprojAssemblyReference.cache
+c:\users\roman\source\repos\SourceProtocol\SourceProtocol\obj\Debug\SourceProtocol.csproj.CoreCompileInputs.cache
+c:\users\roman\source\repos\SourceProtocol\SourceProtocol\obj\Debug\SourceProtocol.dll
+c:\users\roman\source\repos\SourceProtocol\SourceProtocol\obj\Debug\SourceProtocol.pdb
